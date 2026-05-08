@@ -11,7 +11,7 @@
 </div>
 
 
-# Olá, eu sou a Huína 👋
+# Olá, eu sou a Huina 👋
 
 Sou desenvolvedora de software com formação em sistemas embarcados pelo SENAI e experiência em desenvolvimento utilizando Python e C++.
 
