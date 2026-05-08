@@ -70,3 +70,4 @@ Tenho interesse especial em:
 * PostgreSQL
 * Docker
 * Testes de software
+* Cloud
