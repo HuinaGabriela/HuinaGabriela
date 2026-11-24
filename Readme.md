@@ -1,24 +1,36 @@
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HuinaGabriela&show_icons=true&theme=tokyonight)
+### 📫 Entre em contato
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuinaGabriela&layout=compact&theme=tokyonight)
-
-
-## 📫 Contato
-
-<div> 
-<a href = "mailto:huinagabriela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/huína-gabriela-pereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<div align="left">
+  <a href="mailto:huinagabriela@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/huína-gabriela-pereira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
+# 👋 Olá! Eu sou a Huina Gabriela
+Sou desenvolvedora de software, formada em Sistemas Embarcados pelo SENAI, com experiência em desenvolvimento utilizando Python e C++.
+Durante minha trajetória acadêmica, especialmente nos estudos de mestrado na UFRGS, aprofundei meu interesse por pesquisa, desenvolvimento de software e tecnologias embarcadas.
+Gosto de explorar novos desafios, desenvolver soluções tecnológicas e ampliar continuamente meus conhecimentos. Tenho interesse em desenvolvimento de software, testes de software e inovação tecnológica.
 
-# Olá, eu sou a Huina 👋
+---
 
-Sou desenvolvedora de software com formação em sistemas embarcados pelo SENAI, experiência em desenvolvimento utilizando Python e C++. Durante os estudos de mestrado também em software embarcado na UFRGS a experiência fortaleceu meu interesse por pesquisa, tecnologias e aprendizado contínuo em novas tecnologias.
+### 🚀 Tecnologias e ferramentas
 
-
-### Linguagens
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<div align="left">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HuinaGabriela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HuinaGabriela&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+⭐ Obrigada pela visita ao meu perfil!
