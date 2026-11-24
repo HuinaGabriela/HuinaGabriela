@@ -13,37 +13,8 @@
 
 # Olá, eu sou a Huina 👋
 
-Sou desenvolvedora de software com formação em sistemas embarcados pelo SENAI e experiência em desenvolvimento utilizando Python e C++.
+Sou desenvolvedora de software com formação em sistemas embarcados pelo SENAI, experiência em desenvolvimento utilizando Python e C++. Durante os estudos de mestrado também em software embarcado na UFRGS a experiência fortaleceu meu interesse por pesquisa, tecnologias e aprendizado contínuo em novas tecnologias.
 
-Atualmente estudo backend com FastAPI, arquitetura de APIs, testes automatizados e boas práticas de desenvolvimento, enquanto direciono minha trajetória para a área de Inteligência Artificial.
-
-Também iniciei mestrado em Software Embarcado na UFRGS, experiência que fortaleceu meu interesse por pesquisa, tecnologia e aprendizado contínuo.
-
-Tenho interesse especial em:
-
-* backend Python
-* APIs assíncronas
-* testes automatizados
-* arquitetura de software
-* inteligência artificial
-* novas tecnologias
-
----
-
-## 🚀 Tecnologias
-
-### Backend
-
-* Python
-* FastAPI
-* SQLAlchemy
-* JWT
-* Alembic
-
-### Testes
-
-* Pytest
-* Robot Framework
 
 ### Linguagens
 
@@ -51,23 +22,3 @@ Tenho interesse especial em:
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
-
-
-### Ferramentas
-
-* Git
-* GitHub
-* Poetry
-* SQLite
-* Jenkins
-
----
-
-## 📚 Atualmente estudando
-
-* Inteligência Artificial
-* Arquitetura Backend
-* PostgreSQL
-* Docker
-* Testes de software
-* Cloud
